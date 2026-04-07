@@ -1,1 +1,1 @@
-# credit-risk-scoring-modeal
+# credit-risk-scoring-modal
